@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi, I'm Taha — a passionate and curious learner with a strong interest in Machine Learning, Deep Reinforcement Learning, and building intelligent systems that can learn and adapt. I love turning ideas into working projects, and I believe hands-on building is the best way to learn.
+Hi, I'm Taha — a passionate and curious learner with a strong interest in Machine Learning, Reinforcement Learning, and building intelligent systems that can learn and adapt. I love turning ideas into working projects, and I believe hands-on building is the best way to learn.
 
 🐍 I work primarily with Python, have hands-on experience with SQL, and a solid understanding of core ML concepts
 
